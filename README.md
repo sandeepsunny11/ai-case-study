@@ -69,28 +69,28 @@ Some of these technologies are appropriate because they are open to the public a
 
 ## References
 
-Allyn, B. (2023, November 24). How OpenAI’s origins explain the Sam Altman drama. NPR. https://www.npr.org/2023/11/24/1215015362/chatgpt-openai-sam-altman-fired-explained#:~:text=OpenAI%20was%20founded%20in%202015,would%20prioritize%20principles%20over%20profit.
+Allyn, B. (2023, November 24). How OpenAI’s origins explain the Sam Altman drama. NPR. _https://www.npr.org/2023/11/24/1215015362/chatgpt-openai-sam-altman-fired-explained#:~:text=OpenAI%20was%20founded%20in%202015,would%20prioritize%20principles%20over%20profit._
 
-Anchia, C. (2024, April 29). Measuring Success: Key metrics and KPIs for AI initiatives - Acacia Advisors. Acacia Advisors. https://chooseacacia.com/measuring-success-key-metrics-and-kpis-for-ai-initiatives/#:~:text=KPIs%20are%20quantifiable%20measurements%20that,satisfaction%20scores%20and%20engagement%20rates.
+Anchia, C. (2024, April 29). Measuring Success: Key metrics and KPIs for AI initiatives - Acacia Advisors. Acacia Advisors. _https://chooseacacia.com/measuring-success-key-metrics-and-kpis-for-ai-initiatives/#:~:text=KPIs%20are%20quantifiable%20measurements%20that,satisfaction%20scores%20and%20engagement%20rates._
 
-Bylund, A. (2024, May 14). Who owns OpenAI? The Motley Fool. https://www.fool.com/investing/how-to-invest/stocks/who-owns-openai/#:~:text=Big%2Dname%20venture%20capital%20funds,of%20%24300%20million%20into%20OpenAI.
+Bylund, A. (2024, May 14). Who owns OpenAI? The Motley Fool. _https://www.fool.com/investing/how-to-invest/stocks/who-owns-openai/#:~:text=Big%2Dname%20venture%20capital%20funds,of%20%24300%20million%20into%20OpenAI._
 
-Cheng, M. (2024, February 12). OpenAI is set to hit $2 billion in revenue — and fast. Quartz. https://qz.com/openai-will-make-2-billion-revenue-soon-tech-ai-chatgpt-1851247985#:~:text=Just%20seven%20years%20after%20being,knowledge%20told%20the%20Financial%20Times.
+Cheng, M. (2024, February 12). OpenAI is set to hit $2 billion in revenue — and fast. Quartz. _https://qz.com/openai-will-make-2-billion-revenue-soon-tech-ai-chatgpt-1851247985#:~:text=Just%20seven%20years%20after%20being,knowledge%20told%20the%20Financial%20Times._
 
-How artificial intelligence impacts business. (2001, April 21). William & Mary. https://online.mason.wm.edu/blog/machine-learning-and-business-impacts#:~:text=It%20helps%20streamline%20inventory%20management,to%20ship%20and%20receive%20goods.
+How artificial intelligence impacts business. (2001, April 21). William & Mary. _https://online.mason.wm.edu/blog/machine-learning-and-business-impacts#:~:text=It%20helps%20streamline%20inventory%20management,to%20ship%20and%20receive%20goods._
 
-Mollman, S. (2023, May 5). OpenAI ignored the ‘have a problem to solve’ rule, says president Greg Brockman. It’s now worth nearly $30 billion. Fortune. https://fortune.com/2023/05/04/openai-success-chatgpt-business-technology-rule-greg-brockman/
+Mollman, S. (2023, May 5). OpenAI ignored the ‘have a problem to solve’ rule, says president Greg Brockman. It’s now worth nearly $30 billion. Fortune. _https://fortune.com/2023/05/04/openai-success-chatgpt-business-technology-rule-greg-brockman/_
 
-OpenAI commands 1.19% market share in Artificial Intelligence. (n.d.). https://enlyft.com/tech/products/openai#:~:text=The%20companies%20using%20OpenAI%20are,1%20years%20and%205%20months.
+OpenAI commands 1.19% market share in Artificial Intelligence. (n.d.). _https://enlyft.com/tech/products/openai#:~:text=The%20companies%20using%20OpenAI%20are,1%20years%20and%205%20months._
 
-Shao, Z., Zhao, R., Yuan, S., Ding, M., & Wang, Y. (2022). Tracing the evolution of AI in the past decade and forecasting the emerging trends. Expert Systems With Applications, 209, 118221. https://doi.org/10.1016/j.eswa.2022.118221
+Shao, Z., Zhao, R., Yuan, S., Ding, M., & Wang, Y. (2022). Tracing the evolution of AI in the past decade and forecasting the emerging trends. Expert Systems With Applications, 209, 118221. _https://doi.org/10.1016/j.eswa.2022.118221_
 
-Stash, T. (2024, June 11). 15 Largest AI companies in 2024. Stash Learn. https://www.stash.com/learn/top-ai-companies/
+Stash, T. (2024, June 11). 15 Largest AI companies in 2024. Stash Learn. _https://www.stash.com/learn/top-ai-companies/_
 
-Watson, A. (2024, February 6). OpenAI vs. Traditional AI: Understanding the Difference. Medium. https://medium.com/@andrewwats/openai-vs-traditional-ai-understanding-the-difference-dd1dcc35b846#:~:text=One%20of%20the%20main%20differences,learn%20and%20adapt%20from%20data.
+Watson, A. (2024, February 6). OpenAI vs. Traditional AI: Understanding the Difference. Medium. _https://medium.com/@andrewwats/openai-vs-traditional-ai-understanding-the-difference-dd1dcc35b846#:~:text=One%20of%20the%20main%20differences,learn%20and%20adapt%20from%20data._
 
-What is OpenAI? (n.d.). Moveworks. https://www.moveworks.com/us/en/resources/ai-terms-glossary/openai
+What is OpenAI? (n.d.). Moveworks. _https://www.moveworks.com/us/en/resources/ai-terms-glossary/openai_
 
-What is OpenAI? (n.d.-b). Moveworks. https://www.moveworks.com/us/en/resources/ai-terms-glossary/openai#:~:text=OpenAI%20is%20an%20artificial%20intelligence,a%20safe%20and%20beneficial%20manner.
+What is OpenAI? (n.d.-b). Moveworks. _https://www.moveworks.com/us/en/resources/ai-terms-glossary/openai#:~:text=OpenAI%20is%20an%20artificial%20intelligence,a%20safe%20and%20beneficial%20manner._
 
-Wikipedia contributors. (2024, July 3). OpenAI. Wikipedia. https://en.wikipedia.org/wiki/OpenAI#:~:text=In%20December%202015%2C%20OpenAI%20was,Musk%20as%20the%20co%2Dchairs.44
+Wikipedia contributors. (2024, July 3). OpenAI. Wikipedia. _https://en.wikipedia.org/wiki/OpenAI#:~:text=In%20December%202015%2C%20OpenAI%20was,Musk%20as%20the%20co%2Dchairs.44_
