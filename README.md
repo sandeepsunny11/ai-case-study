@@ -1,5 +1,5 @@
 ## Overview and Origin
-* Name of company
+* Name of company:
  OpenAI
 * When was the company incorporated?
  2015
@@ -13,10 +13,11 @@
 ## Business Activities
  
 * What specific problem is the company or project trying to solve?
-   	 [This source] (https://fortune.com/2023/05/04/openai-success-chatgpt-business-technology-rule-greg-brockman/) states that OpenAI ignored one of the main rules of business, in that it does not address a “problem to solve” rule because there were many other companies already addressing the same thing – providing knowledge faster than humans can through a computerized model.
+   	 [This source](https://fortune.com/2023/05/04/openai-success-chatgpt-business-technology-rule-greg-brockman/) states that OpenAI ignored one of the main rules of business, in that it does not address a “problem to solve” rule because there were many other companies already addressing the same thing – providing knowledge faster than humans can through a computerized model.
 
 * Who is the company's intended customer? Is there any information about the market size of this set of customers?
- OpenAI is used mainly by smaller Technology Services companies that are valued around 1 million to 10 million dollars. “Most companies have 10-50 employers. There are 6,261 companies currently using OpenAI.”
+ OpenAI is used mainly by smaller Technology Services companies that are valued around 1 million to 10 million dollars. According to Bylund, 
+> “Most companies have 10-50 employers. There are 6,261 companies currently using OpenAI (Bylund, 2024).”
 * What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
 The main benefit to OpenAI is that their AI is consistently learning based on updated information. Other AI platforms use preprogrammed information and older data that is available. 
 
@@ -41,12 +42,12 @@ IBM, Nvidia, Google, Alphabet, Microsoft, Amazon, Oracle, etc.
 * What are some of the core metrics that companies in this field use to measure success? How is your company performing based on these metrics?
 The company measures success based on performance and accuracy. The specific metrics they use are KPI or Key performance indicators, customer satisfaction, and return on investment. OpenAI is performing well based on these metrics. 
 * How is your company performing relative to competitors in the same field?
-Considering the company is worth over 84 billion dollars and made 2 billion in 2023, they are doing very well, with some of the top competitors investing in their company. 
+Considering the company is worth over 84 billion dollars and made 2 billion in 2023, they are doing very well, with some of the top competitors investing in their company. Despite this, they are still performing worse than other top tech companies such as Google.
 
 ## Recommendations
  
 * If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
- Well, being valued at over 84 billion, OpenAI is already doing well in my point of view. I think somethings that could be offered would be linking to other websites/programs commonly used in business to leverage those other networks, faster response time for execution of data, or providing ethical or contingency statements if the research is not fully known. 
+ Well, being valued at over 84 billion, OpenAI is already doing well in my point of view. I think some things that could be offered would be linking to other websites/programs commonly used in business to leverage those other networks, faster response time for execution of data, or providing ethical or contingency statements if the research is not fully known. 
 * Why do you think that offering this product or service would benefit the company?
  I think that offering these additional services would make the company better because then any kind of business could use it and streamline their work. It would make the company more appealing to other types of businesses other than Tech companies.
 * What technologies would this additional product or service utilize?
@@ -66,7 +67,7 @@ Some of these technologies are appropriate because they are open to the public a
 
 
 
-References
+## References
 
 Allyn, B. (2023, November 24). How OpenAI’s origins explain the Sam Altman drama. NPR. https://www.npr.org/2023/11/24/1215015362/chatgpt-openai-sam-altman-fired-explained#:~:text=OpenAI%20was%20founded%20in%202015,would%20prioritize%20principles%20over%20profit.
 
